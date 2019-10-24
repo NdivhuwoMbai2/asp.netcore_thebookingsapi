@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>thebookingsapi</name>
+    </assembly>
+    <members>
+        <member name="M:thebookingsapi.Controllers.CommunicationController.SendMessageToSubscribers(System.String,System.String,System.String)">
+            <summary>
+            Returns a group of Employees matching the given first and last names.
+            </summary>
+            <remarks>
+            Here is a sample remarks placeholder.
+            </remarks>
+            <param name="firstName">The first name to search for</param>
+            <param name="lastName">The last name to search for</param>
+            <returns>A string status</returns>
+        </member>
+        <member name="M:thebookingsapi.Controllers.EventsController.GetEvents">
+            <summary>
+            retrieves all the current events that have been added in the db or in the json flatfiles
+            </summary>
+        </member>
+        <member name="M:thebookingsapi.Controllers.EventsController.ClientBooking(thebookinglib.Models.ClientBooking)">
+            <summary>
+            Submit booking allows users to book a certain event that they would like to go to
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:thebookingsapi.Controllers.EventsController.SubscribeToEvent(thebookinglib.Models.Subscription)" -->
+    </members>
+</doc>

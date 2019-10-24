@@ -1,0 +1,182 @@
+{
+    "event": [
+        {
+        "eventtype": "FESTIVAL",
+        "eventName": "Oppikopi",
+        "subscription": [
+            {
+                "eventName": "Oppikopi",
+                "CommunicationMethod": "EMAIL",
+                "Users": [
+                    {
+                        "userEmailAddress": "userEmailAddress",
+                        "personName": "personName",
+                        "cellNumber": "cellNumber",
+                        "whatsappNumber": "whatsappNumber"
+                    },
+                    {
+                        "userEmailAddress": "userEmailAddress",
+                        "personName": "personName",
+                        "cellNumber": "cellNumber",
+                        "whatsappNumber": "whatsappNumber"
+                    },
+                    {
+                        "userEmailAddress": "userEmailAddress",
+                        "personName": "personName",
+                        "cellNumber": "cellNumber",
+                        "whatsappNumber": "whatsappNumber"
+                    },
+                    {
+                        "userEmailAddress": "userEmailAddress",
+                        "personName": "personName",
+                        "cellNumber": "cellNumber",
+                        "whatsappNumber": "whatsappNumber"
+                    }
+                ]
+            }
+        ]
+    },{
+        "eventtype": "FESTIVAL",
+        "eventName": "Up the creek",
+        "subscription": [
+            {
+                "eventName": "Up the creek",
+                "CommunicationMethod": "EMAIL",
+                "Users": [
+                    {
+                        "userEmailAddress": "userEmailAddress",
+                        "personName": "personName",
+                        "cellNumber": "cellNumber",
+                        "whatsappNumber": "whatsappNumber"
+                    },
+                    {
+                        "userEmailAddress": "userEmailAddress",
+                        "personName": "personName",
+                        "cellNumber": "cellNumber",
+                        "whatsappNumber": "whatsappNumber"
+                    },
+                    {
+                        "userEmailAddress": "userEmailAddress",
+                        "personName": "personName",
+                        "cellNumber": "cellNumber",
+                        "whatsappNumber": "whatsappNumber"
+                    },
+                    {
+                        "userEmailAddress": "userEmailAddress",
+                        "personName": "personName",
+                        "cellNumber": "cellNumber",
+                        "whatsappNumber": "whatsappNumber"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "eventtype": "FESTIVAL",
+        "eventName": "Easter Vortex",
+        "subscription": [
+            {
+                "eventName": "Easter Vortex",
+                "CommunicationMethod": "EMAIL",
+                "Users": [
+                    {
+                        "userEmailAddress": "userEmailAddress",
+                        "personName": "personName",
+                        "cellNumber": "cellNumber",
+                        "whatsappNumber": "whatsappNumber"
+                    },
+                    {
+                        "userEmailAddress": "userEmailAddress",
+                        "personName": "personName",
+                        "cellNumber": "cellNumber",
+                        "whatsappNumber": "whatsappNumber"
+                    },
+                    {
+                        "userEmailAddress": "userEmailAddress",
+                        "personName": "personName",
+                        "cellNumber": "cellNumber",
+                        "whatsappNumber": "whatsappNumber"
+                    },
+                    {
+                        "userEmailAddress": "userEmailAddress",
+                        "personName": "personName",
+                        "cellNumber": "cellNumber",
+                        "whatsappNumber": "whatsappNumber"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "eventtype": "FESTIVAL",
+        "eventName": "Rocking the Daisies",
+        "subscription": [
+            {
+                "eventName": "Rocking the Daisies",
+                "CommunicationMethod": "EMAIL",
+                "Users": [
+                    {
+                        "userEmailAddress": "userEmailAddress",
+                        "personName": "personName",
+                        "cellNumber": "cellNumber",
+                        "whatsappNumber": "whatsappNumber"
+                    },
+                    {
+                        "userEmailAddress": "userEmailAddress",
+                        "personName": "personName",
+                        "cellNumber": "cellNumber",
+                        "whatsappNumber": "whatsappNumber"
+                    },
+                    {
+                        "userEmailAddress": "userEmailAddress",
+                        "personName": "personName",
+                        "cellNumber": "cellNumber",
+                        "whatsappNumber": "whatsappNumber"
+                    },
+                    {
+                        "userEmailAddress": "userEmailAddress",
+                        "personName": "personName",
+                        "cellNumber": "cellNumber",
+                        "whatsappNumber": "whatsappNumber"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "eventtype": "FESTIVAL",
+        "eventName": "RAMfest",
+        "subscription": [
+            {
+                "eventName": "RAMfest",
+                "CommunicationMethod": "EMAIL",
+                "Users": [
+                    {
+                        "userEmailAddress": "userEmailAddress",
+                        "personName": "personName",
+                        "cellNumber": "cellNumber",
+                        "whatsappNumber": "whatsappNumber"
+                    },
+                    {
+                        "userEmailAddress": "userEmailAddress",
+                        "personName": "personName",
+                        "cellNumber": "cellNumber",
+                        "whatsappNumber": "whatsappNumber"
+                    },
+                    {
+                        "userEmailAddress": "userEmailAddress",
+                        "personName": "personName",
+                        "cellNumber": "cellNumber",
+                        "whatsappNumber": "whatsappNumber"
+                    },
+                    {
+                        "userEmailAddress": "userEmailAddress",
+                        "personName": "personName",
+                        "cellNumber": "cellNumber",
+                        "whatsappNumber": "whatsappNumber"
+                    }
+                ]
+            }
+        ]
+    }
+]}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+<Relationship Type="http://schemas.microsoft.com/packaging/2010/07/manifest" Target="/thebookinglib.nuspec" Id="R1da275ef45ba2977" />
+<Relationship Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties" Target="/package/services/metadata/core-properties/53397213476c14db78d22d82107f7e47.psmdcp" Id="R92c25a9e5ab7a37d" />
+</Relationships>

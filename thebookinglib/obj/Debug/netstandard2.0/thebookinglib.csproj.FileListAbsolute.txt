@@ -1,0 +1,9 @@
+C:\Users\ndivhuwo.mbaimbai\Downloads\thebookinglib\obj\Debug\netstandard2.0\thebookinglib.csprojAssemblyReference.cache
+C:\Users\ndivhuwo.mbaimbai\Downloads\thebookinglib\obj\Debug\netstandard2.0\thebookinglib.csproj.CoreCompileInputs.cache
+C:\Users\ndivhuwo.mbaimbai\Downloads\thebookinglib\obj\Debug\netstandard2.0\thebookinglib.AssemblyInfoInputs.cache
+C:\Users\ndivhuwo.mbaimbai\Downloads\thebookinglib\obj\Debug\netstandard2.0\thebookinglib.AssemblyInfo.cs
+C:\Users\ndivhuwo.mbaimbai\Downloads\thebookinglib\bin\Debug\netstandard2.0\thebookinglib.deps.json
+C:\Users\ndivhuwo.mbaimbai\Downloads\thebookinglib\bin\Debug\netstandard2.0\thebookinglib.dll
+C:\Users\ndivhuwo.mbaimbai\Downloads\thebookinglib\bin\Debug\netstandard2.0\thebookinglib.pdb
+C:\Users\ndivhuwo.mbaimbai\Downloads\thebookinglib\obj\Debug\netstandard2.0\thebookinglib.dll
+C:\Users\ndivhuwo.mbaimbai\Downloads\thebookinglib\obj\Debug\netstandard2.0\thebookinglib.pdb
